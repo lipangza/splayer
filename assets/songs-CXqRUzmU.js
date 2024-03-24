@@ -1,0 +1,1 @@
+import{_ as s}from"./SongList-DPr6dAOg.js";import{g as o,G as t,k as a}from"./vendor-QWMq--4w.js";import"./index-B903CxKP.js";import"./Pagination-D96eRF_4.js";const n={class:"local-songs"},r={__name:"songs",props:{songList:{type:Array,default:()=>[]}},setup:r=>(i,e)=>{const p=s;return o(),t("div",n,[a(p,{data:r.songList},null,8,["data"])])}};export{r as default};
