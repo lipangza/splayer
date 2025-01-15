@@ -1,0 +1,1 @@
+import{b7 as a}from"./stores-Jq5HPlpq.js";const r=(r,s)=>a({url:`/${s}/detail`,params:"mv"===s?{mvid:r}:{id:r}}),s=(r,s,m)=>a({url:`/${s}/url`,params:{id:r,r:m}}),m=(r,s)=>a({url:`/${s}/detail/info`,params:"mv"===s?{mvid:r}:{vid:r}}),i=(r,s,m,i=12,l=0)=>a({url:"/mv/all",params:{area:r,type:s,order:m,limit:i,offset:l}});export{i as a,m as b,s as c,r as v};
