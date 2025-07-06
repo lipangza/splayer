@@ -1,0 +1,1 @@
+import{_ as s}from"./ArtistList-DRvsCxLi.js";import{d as t,as as a,H as r,j as e,n as i,k as o}from"./stores-fvLrIm8G.js";import"./index-CugtlCeX.js";const n={class:"like-type"},d=t({__name:"artists",setup(t){const d=a();return(t,a)=>{const l=s;return e(),r("div",n,[i(l,{data:o(d).userLikeData.artists,loading:!0},null,8,["data"])])}}});export{d as default};
